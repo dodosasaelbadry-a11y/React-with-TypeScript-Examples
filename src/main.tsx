@@ -22,6 +22,7 @@ function App() {
     <main style={styles.page}>
       <section style={styles.card}>
         <h1>React Practice App 🚀</h1>
+        <button>Hello</button>
 
         <p>
           Today&apos;s progress: <strong>{count}</strong>
